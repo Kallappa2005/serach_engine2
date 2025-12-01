@@ -1,6 +1,6 @@
 streamlit
-langchain
-langchain-community
+langchain==0.0.350
+langchain-community==0.0.29
 langchain-groq
 tavily-python
 arxiv
